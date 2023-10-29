@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Alhamdan, Quality Improvement Specialist with experince and degrees in Health Informatics and Pharmacy
-- 👀 I’m interested in expanding my understanding in AI/ML directed to Improving Healthcare Quality and Patient Safety
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on sharing knowledge, networking, learning and building models to Healthcare Systems 
+- 👀 I’m interested in expanding my understanding in AI/ML directed to Improving Digital Healthcare, Quality and Patient Safety
+- 🌱 I’m currently learning AI/ML Agile mindsets 
+- 💞️ I’m looking to collaborate on sharing knowledge, networking, learning and building a comperhensive models to improve Healthcare Systems: Clinically and Operationally. 
 - 📫 How to reach me? thru my email microsite1@yahoo.com
 
 <!---
